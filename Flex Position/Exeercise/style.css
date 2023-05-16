@@ -1,0 +1,15 @@
+.first{
+    background-color: yellowgreen;
+}
+.second{
+    background-color: gold;
+}
+.third{
+    background-color: blue;
+}
+p{
+    display: inline-block;
+    overflow: scroll;
+    width: 41%;
+    height: 150px;
+}
