@@ -1,0 +1,23 @@
+.main{
+    display:flex;
+}
+.main div .text {
+    margin-left:20px;
+}
+.in{
+    display: flex;
+    flex-direction: column;
+}
+.text{
+    flex-direction: column;
+}
+input{
+    margin-bottom: 30px;
+    position: relative;
+    left: 30px;
+    bottom: 3px;
+}
+.first{
+    position: relative;
+    top:15px;
+}

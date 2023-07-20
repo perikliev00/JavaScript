@@ -1,0 +1,27 @@
+#result{
+    display: inline-flex;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 110px;
+    height: 50px;
+    cursor: pointer;
+}
+input{
+    display:inline-flex
+}
+.main{
+    display: inline-flex;
+    flex-direction: column;
+    width:100%;
+    align-items: center;
+}
+#result{
+    display: inline-flex;
+    width:200px;
+    height:50px;
+    justify-content: center;
+    align-items: center;
+}
+

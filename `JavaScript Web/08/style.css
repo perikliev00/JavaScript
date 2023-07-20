@@ -1,0 +1,12 @@
+body{
+    background-color: cornflowerblue;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+input{
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
