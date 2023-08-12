@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.section {
+    border: 1px solid black;
+    height: 250px;
+    width:200px;
+    margin-bottom: 30px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+input {
+    display: block;
+    margin:auto;
+}
+.over {
+    background-color: aqua;
+    border: 1px solid black;
+    height: 250px;
+    width:200px;
+    margin-bottom: 30px;
+}

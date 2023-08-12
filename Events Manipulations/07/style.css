@@ -1,0 +1,90 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main {
+    display:flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+}
+.header {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.product-bread{
+    display:inline-flex;
+    justify-content:start;
+    border-top: 2px solid black;
+    margin:auto;
+    margin-bottom: 40px;
+    padding-top: 20px;
+    width: 800px;
+}
+.product-tomato{
+    display:inline-flex;
+    justify-content:start;
+    border-top: 2px solid black;
+    margin:auto;
+    margin-bottom: 40px;
+    padding-top: 20px;
+    width:800px
+}
+.product-milk{
+    display:inline-flex;
+    justify-content:start;
+    border-top:2px solid black;
+    margin-bottom: 40px;
+    margin:auto;
+    margin-bottom: 40px;
+    padding-top: 20px;
+    width:800px;
+}
+p {
+    width:200px;
+}
+.button{
+    margin-right: 20px;
+}
+img {
+    height:100px;
+    margin-right: 20px;
+}
+.product-info {
+    margin-right: 20px;
+}
+#text {
+    display: block;
+    margin:300px;
+    padding: 0px;
+}
+.price{
+    margin-left: 150px;
+}
+.first {
+    padding-left: 200px;
+    font-size: xx-large;
+}
+.second {
+    padding-right: 255px;
+    padding-top: 40px;
+    font-size: x-large;
+}
+button {
+    width: 80px;
+    height: 40px;
+    background-color: green;
+    color: bisque;
+    cursor: pointer;
+}
+#text {
+    display: block;
+    width: 500px;
+    height: 150px;
+    background-color: burlywood;
+    margin: auto;
+}
+.chekout {
+    display: inline-block;
+    margin-left: 1100px;
+}

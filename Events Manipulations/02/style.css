@@ -1,0 +1,35 @@
+.head {
+    background-color: red;
+}
+thead {
+    background-color: red;
+}
+.name {
+    width:140px;
+    height:40px ;
+}
+.email {
+    width:400px;
+    height: 40px;
+}
+ table {
+    border-collapse: collapse;
+    border: 2px solid red;
+    margin-bottom: 20px;
+ }
+ td {
+    border: 2px solid red;
+ }
+ span {
+    height: 30px;
+ }
+ input {
+    height: 30px;
+ }
+ button {
+    height: 40px;
+    width: 80px;
+    margin-left: 20px;
+    border: 2px solid red;
+    cursor: pointer;
+ }

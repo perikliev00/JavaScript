@@ -1,0 +1,26 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 30px;
+}
+.gradient-box {
+    display: flex;
+    width:400px;
+    background-color: aqua;
+    margin: auto;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    cursor: crosshair;
+}
+.gradient-box:hover {
+    border: 1px solid black;
+}
+
+.result {
+    text-align: center;
+    margin-top: 40px;
+}
+.result {
+    color: black;
+}
