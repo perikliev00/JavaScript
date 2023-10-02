@@ -1,0 +1,21 @@
+table {
+    border:1px solid black;
+    border-collapse: collapse;
+}
+th {
+    width:150px;
+    height: 31px;
+    background-color: lightslategray;
+}
+td {
+    width:150px;
+    border:1px solid black;
+    height:31px;
+    text-align: center;
+}
+.odd {
+    background-color: lightsteelblue;
+} 
+.even{
+    background-color: lightseagreen;
+}
