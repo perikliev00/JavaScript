@@ -1,0 +1,33 @@
+.main {
+    background-color: aqua;
+    height: 40px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    padding-right: 10px;
+}
+.button {
+    display:inline-block;
+    text-align: center;
+    padding-bottom: 5px;
+    height: 30px;
+    width: 40px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.info {
+    display: none;
+}
+main {
+    width:30%;
+}
+.main-online {
+        background-color: green;
+        height: 40px;
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 30px;
+        padding-right: 10px;
+    }
