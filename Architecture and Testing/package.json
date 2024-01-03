@@ -1,0 +1,21 @@
+{
+  "name": "architecture-and-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.0",
+    "chromium": "^3.0.3",
+    "mocha": "^10.2.0",
+    "playwright": "^1.40.1"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.40.1"
+  }
+}
